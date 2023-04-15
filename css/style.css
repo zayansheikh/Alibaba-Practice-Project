@@ -1,0 +1,55 @@
+*{
+    background-color: #F2F3F7;
+}
+.container{
+    height: 435px;
+    background-color: white;
+}
+.t-border{
+    height: 434px;
+}
+.first img{
+    width: 100%;
+    height: inherit;
+}
+.first p img {
+    width: 31px;
+    height: 31px;
+    border-radius: 15px;
+}
+.in{
+    height: 143px;
+    margin-bottom: 4px;
+}
+.ina{
+    background-color: #525252;
+    border-radius: 10px;
+}
+.inb{
+    background-color: #FF4F00;
+    border-radius: 10px;
+}
+.three{
+    border: 1px solid palevioletred;
+    height: 140px;
+    background-color: #F2F3F7;
+    padding: 45px;
+    border-radius: 10px;
+}
+.product{
+    background-color: white;
+    border-radius: 10PX;
+    height: 235px;
+    padding: 50px 30px 0 30px;
+}
+.inproduct{
+    background-color: #F2F3F7;
+    height: 150px;
+    margin-top: 10px;
+}
+.about{
+    margin-top: -41px;
+}.about span{
+    font-weight: 600;
+    margin-left: 5px;
+}
